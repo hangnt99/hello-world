@@ -2,3 +2,4 @@ Name: Lai Quang Thai
 Nation: Viet Nam
 Age: 20
 Sex: Male
+Girlfriend: Nguyen Thu Hang
